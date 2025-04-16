@@ -82,7 +82,7 @@ Resulting in a clean dataset: `processed_ecommerceDataset.csv`, ready for model 
 
 ## 🙌 Credits
 
-Project by **Yahan Madhuhansa**  
+🤖Project by **Yahan Madhuhansa**  
 This project demonstrates the application of Bag of Words and machine learning for text classification in the domain of e-commerce products.  
 Inspired by traditional text classification tasks and the potential of ML models for automatic text categorization.
 
