@@ -31,7 +31,9 @@ The dataset contains **product names** from various categories, which are classi
 - Lowercasing  
 
 Resulting in a clean dataset: `processed_ecommerceDataset.csv`, ready for model training.
-📥 **Dataset Link:** [Download the dataset](<Insert your dataset link here>)
+
+📥 **Dataset Link:** [Download the dataset](https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification)
+
 
 ---
 
