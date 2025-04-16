@@ -10,6 +10,11 @@ This project performs **multi-class text classification** on an **e-commerce dat
 - scikit-learn  
 - pandas  
 - joblib  
+- spaCy  
+- Jupyter Notebook  
+- CountVectorizer (from scikit-learn)  
+- Multinomial Naive Bayes (from scikit-learn)  
+- Pipeline (from scikit-learn)
 
 ---
 
