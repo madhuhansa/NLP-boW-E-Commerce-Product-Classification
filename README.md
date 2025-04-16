@@ -31,6 +31,7 @@ The dataset contains **product names** from various categories, which are classi
 - Lowercasing  
 
 Resulting in a clean dataset: `processed_ecommerceDataset.csv`, ready for model training.
+📥 **Dataset Link:** [Download the dataset](<Insert your dataset link here>)
 
 ---
 
@@ -55,10 +56,7 @@ Resulting in a clean dataset: `processed_ecommerceDataset.csv`, ready for model 
 
 | File/Folder | Description |
 |-------------|-------------|
-| `Model/best_model(bow).pkl` | Saved best-performing model using Bag-of-Words features. |
-| `ecommerceDataset.csv` | Original unprocessed dataset. |
 | `ecommerceDataset.ipynb` | Notebook for preprocessing the raw dataset using spaCy. |
-| `processed_ecommerceDataset.csv` | Cleaned and preprocessed dataset used for training. |
 | `boW_ecommerceDataset.ipynb` | Main notebook for model training, evaluation, and selection. |
 | `README.md` | Project overview and usage instructions. |
 
